@@ -136,7 +136,7 @@ body {
   color: #333333; 
   font-family: monospace;   
   font-size: 40px;        
-  background-color: #fff; 
+  background-color: #ffffff; 
 }
 
 
@@ -144,7 +144,6 @@ body {
   #menu-toggle:checked ~.nav{
     position: absolute;
     top: 60px;
-    right: 20px;
     width: 100%;
 
    

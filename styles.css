@@ -93,19 +93,9 @@ body {
 
   .hamburger {
     display: block;              
-    width: 28px;
-    height: 24px;
-    cursor: pointer;
   }
   
-  .hamburger span {
-    display: block;
-    height: 3px;
-    background: #111;
-    margin: 5px 0;
-    transition: 0.2s;
-    border-radius: 2px;
-  }
+
 
   
   /* GUIDE 3: reveal nav when toggled (use ~ combinator) */
